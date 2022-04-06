@@ -1,0 +1,23 @@
+HHA 551.42 Big Data Technologies in Healthcare
+Infrastructure Project
+
+Scenario:
+You have been assigned a new project from the Director of Clinical Informatics.  She would like you to and your team design the infrastructure components necessary to build, test and deploy an algorithm to predict the likelihood of 30-day readmissions in the diabetic population. Using the technology learned in the first half of the semester design and put into the workflow the readmission model so that the hospital can start taking corrective action and reduce the 30-day readmission rate for this population. 
+
+Dataset:
+https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008 
+
+Objectives
+1)	Create groups of 4 students
+a.	Each group must email the professor with the students names in each group
+2)	Design an infrastructure to support the building and testing of a diabetic readmission predictor model and then the infrastructure to place the model into the clinical workflow
+3)	A Power Point presentation will be required for this Project
+a.	Everyone must participate in the project and the presentation
+
+Presentation Audience:
+Executive IT and nursing staff that have a basic understanding of informatics and healthcare data but need to know in the basic of terms how you came about your findings so that they trust what you are presenting
+
+Special Notes:
+You and your group will be presenting all 3 projects at the same time.
+
+
